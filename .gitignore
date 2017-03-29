@@ -10,6 +10,8 @@ $RECYCLE.BIN/
 TEMP/
 Library/
 Assets/HoloToolkit/
+Assets/Plugins
+Assets/Vuforia
 
 # Windows Installer files
 *.cab
@@ -49,3 +51,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Assets/HoloToolkit.meta
+Assets/license_3rdpartynotice.txt
+Assets/license_3rdpartynotice.txt.meta
+Assets/link.xml
+Assets/link.xml.meta
+Assets/Plugins.meta
+Assets/readme_SDK.txt
+Assets/readme_SDK.txt.meta
+
+Assets/Resources.meta
+Assets/Vuforia.meta
+Assets/Resources/VuforiaConfiguration.asset
+Assets/Resources/VuforiaConfiguration.asset.meta
