@@ -9,6 +9,7 @@ Desktop.ini
 $RECYCLE.BIN/
 TEMP/
 Library/
+Assets/HoloToolkit/
 
 # Windows Installer files
 *.cab
@@ -47,3 +48,4 @@ Library/
 Network Trash Folder
 Temporary Items
 .apdisk
+Assets/HoloToolkit.meta
