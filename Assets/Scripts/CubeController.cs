@@ -14,7 +14,6 @@ public class CubeController : MonoBehaviour, IInputClickHandler
 
     #region PUBLIC_MEMBER_VARIABLES
     public ulong ID;
-    public string Color;
     #endregion
 
     #region PUBLIC_METHODS
