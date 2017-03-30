@@ -427,7 +427,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ea9b56756ce4549ac9331b03af784f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnablePrefabs: []
+  spawnablePrefabs:
+  - DataModelClassName: SyncSpawnedObject
+    Prefab: {fileID: 1937947847091980, guid: e9a646acc9e8d4344a6acc0c588ff61f, type: 2}
 --- !u!1 &494067088
 GameObject:
   m_ObjectHideFlags: 0
